@@ -5,4 +5,4 @@
 * Create middleware
   * log all requests
   * hijack a request and return something else
-
+* Handle errors
